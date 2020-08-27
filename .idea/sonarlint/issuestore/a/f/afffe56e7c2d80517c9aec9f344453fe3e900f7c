@@ -1,5 +1,9 @@
 
 C
-java:S1125J"(Remove the literal "true" boolean value.(ğîÄøÿÿÿÿ
+java:S1125P"(Remove the literal "true" boolean value.(ğîÄøÿÿÿÿ
 i
-java:S3776™"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Üé¢à
+java:S3776ê"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Üé¢à
+R
+java:S1066"/Merge this if statement with the enclosing one.(Ç–ˆôüÿÿÿÿ8‰¾Ø«Â.
+R
+java:S1066°"/Merge this if statement with the enclosing one.(¹Ùƒèùÿÿÿÿ8‰¾Ø«Â.

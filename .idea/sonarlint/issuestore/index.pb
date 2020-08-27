@@ -19,3 +19,11 @@ J
 src/chess_pieces/King.java,5/8/58f4e7ce48c2d58c9b2aa13f26a3e291acf3be77
 G
 src/application/UI.java,f/0/f00b20a2ba12c03e5a4a25b29cdf3cfe45d9a93c
+L
+src/chess_pieces/Knight.java,6/9/692f8bd9ed846a57d2017554937593bfb96e3995
+L
+src/chess_pieces/Bishop.java,3/3/3329b95d7d3cc0cba27f9727fab6ab7034adbeb0
+K
+src/chess_pieces/Queen.java,1/d/1db82a5dcd7f30b056a80b57b5f0c7d4ed35e19e
+J
+src/chess_pieces/Pawn.java,4/2/42937b7f6711a942fd75435fe6493b3f166652cd
